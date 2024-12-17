@@ -1,8 +1,12 @@
 # THE JOURNEY: FROM PUNK TO PUBLIC DESIGN
 Notes for a lecture. Work in progress.
 
+> Note: This document will guide our journey through personal stories, systemic thinking, and the human light in design. Feel free to follow along or explore the links afterward.
+
 ## 1. WHO AM I?
 ### My design recipe: open systems, people and a punk sprinkle
+<!-- The following code shows who I am through emojis -->
+
 ```html
 <p class="lead">I'm Daniele Tabellini 
   <span aria-label="computer geek and hacker since 1982" class="eleventy-emoji" role="img">👨‍💻</span> 
@@ -59,7 +63,7 @@ Last day of school → First lesson: #Emotions #Human
 ### The Machine Poetry (1982, 7y.o.)
 From love to creative coding → #LearnByDoing #DesignDoing #Context  
 
-![Commodore 64 unboxing in 1982 by Jim Butterfield](http://i3.ytimg.com/vi/NfTbgmJf_-E/hqdefault.jpg)
+![Jim Butterfield unboxes a Commodore 64 in 1982, sitting at a desk with the computer box and manual](http://i3.ytimg.com/vi/NfTbgmJf_-E/hqdefault.jpg)
 - [Commodore 64 Christmas](https://medium.com/designdraft/dsii-unirsm-7961a5a6d1c5#5edc)
 - [10 PRINT](https://10print.org) ([more](https://x.com/Fupete/status/717274631347036160))
 - [Creative Coding Journey](https://design.unirsm.sm/courses/digital-experience-lab/)
@@ -101,6 +105,13 @@ Human perception → #CollectiveActOfShare
 ----
 
 ## 4. THE HUMAN LIGHT: A DISCUSSION PROMPT
+
+Key Themes:
+* #Human: #Emotions #Love #Care
+* #Process: #LearnByDoing #DesignDoing #DIY
+* #System: #Open #a11y #civilServant
+* #Community: #Share #Enjoy #CollectiveActOfShare
+
 "What if you were me?"
 * Put yourself in others' shoes
 * Find your own contradictions
