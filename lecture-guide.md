@@ -28,6 +28,7 @@ Browse to [danieletabellini.com](https://danieletabellini.com)
 
 ### The Duchamp Effect and The Light
 > "...putting yourself in self-contradictions just to avoid following your own taste" — Marcel Duchamp (via Munari)
+
 > There is a crack in everything. That’s how the light gets in. — Leonard Cohen 
 
 ### Beyond Single Styles
@@ -43,7 +44,7 @@ Browse to [danieletabellini.com](https://danieletabellini.com)
 
 ### On Interpretation
 > "In postmodern times, interpretation is no longer about control or truth. It is not about suggesting, playing with ideas, reflecting [...] No single interpretation should be the end of this process, but there should also be no end to interpretation."
->
+
 > — Simanowski, Digital Art and Meaning (2011)
 
 ## 2. FORMATIVE MOMENTS
@@ -51,6 +52,7 @@ Browse to [danieletabellini.com](https://danieletabellini.com)
 ### Light and love: My grandfather Giacomo (1978, 3y.o.)
 Last day of school → First lesson: #Emotions #Human
 !["Utopia" - My grandfather in the monograph Punkie Totalista, Fupete for ROJO® edicions, 2008](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGbHL9rqK23in0UJaNoc2Q.jpeg)
+- [Punkie Totalista](https://nasonero.studio/portfolio/punkie-totalista)
 - [Learning to see light](https://medium.com/designdraft/dsii-unirsm-7961a5a6d1c5#3430)
 - [From analog to digital light](https://nasonero.studio/portfolio/stati-graphie)
 
@@ -77,7 +79,7 @@ Accessibility as human right → #Open #a11y #civilServant
 * [Nowadays: Designers Italia](https://designers.italia.it)
 
 ### Teacher as Performer, or Making Visible, Together
-Community building → #Share #Care #Enjoy
+Community building → #Share #Care #Enjoy  
 Build your own tool → #DIY #CreativeCoding #Yourself
 ![Photo: The Nuvole Sessions, live interactive sets for the Theatre of Senigallia](https://camo.githubusercontent.com/93410630168c139a03b83809828ac485a673695959046fdca0b12ea8a4cb5a2a/68747470733a2f2f692e696d6775722e636f6d2f6b447a495043482e706e67)
 - [Digital Experience Lab](https://design.unirsm.sm/courses/digital-experience-lab/)
