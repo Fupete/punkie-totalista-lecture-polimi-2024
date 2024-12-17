@@ -50,21 +50,23 @@ Browse to [danieletabellini.com](https://danieletabellini.com)
 ## 2. FORMATIVE MOMENTS
 
 ### Light and love: My grandfather Giacomo (1978, 3y.o.)
-Last day of school → First lesson: #Emotions #Human
+Last day of school → First lesson: #Emotions #Human  
 !["Utopia" - My grandfather in the monograph Punkie Totalista, Fupete for ROJO® edicions, 2008](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EGbHL9rqK23in0UJaNoc2Q.jpeg)
 - [Punkie Totalista](https://nasonero.studio/portfolio/punkie-totalista)
 - [Learning to see light](https://medium.com/designdraft/dsii-unirsm-7961a5a6d1c5#3430)
 - [From analog to digital light](https://nasonero.studio/portfolio/stati-graphie)
 
 ### The Machine Poetry (1982, 7y.o.)
-From love to creative coding → #LearnByDoing #DesignDoing #Context
+From love to creative coding → #LearnByDoing #DesignDoing #Context  
+
 ![Commodore 64 unboxing in 1982 by Jim Butterfield](http://i3.ytimg.com/vi/NfTbgmJf_-E/hqdefault.jpg)
 - [Commodore 64 Christmas](https://medium.com/designdraft/dsii-unirsm-7961a5a6d1c5#5edc)
 - [10 PRINT](https://10print.org) ([more](https://x.com/Fupete/status/717274631347036160))
 - [Creative Coding Journey](https://design.unirsm.sm/courses/digital-experience-lab/)
 
 ### The Analog Master (1990s)
-Digital as tool, not master → #Humble #Simplicity #CivilService
+Digital as tool, not master → #Humble #Simplicity #CivilService  
+
 ![](http://www.fupete.com/play/wp-content/uploads/2013/11/Oriano_Web_10242.jpg)
 * [Oriano Niccolai](https://www.fupete.com/blog/11/05/rosso-creativo-oriano-niccolai-50-anni-di-manifesti/)
 * Fantasy with simple tools
@@ -72,7 +74,8 @@ Digital as tool, not master → #Humble #Simplicity #CivilService
 ## 3. TRANSFORMING SYSTEMS
 
 ### Designer as Civil Servant, or Doing Good 
-Accessibility as human right → #Open #a11y #civilServant  
+Accessibility as human right → #Open #a11y #civilServant 
+
 ![Reggia di Venaria, Italian Digital Day, 21 novembre 2015](https://i0.wp.com/lcd.it/2018/wp-content/uploads/2017/11/12279212_10153285213607058_4010594044706711658_n_Snapseed.jpg?fit=960%2C960&ssl=1)
 * [The beginning: to design is about choosing and limits](https://lcd.it/portfolio/italia/)
 * [Opening systems](https://danieletabellini.com/en/ideas/verso-design-system-italia/)
@@ -81,12 +84,14 @@ Accessibility as human right → #Open #a11y #civilServant
 ### Teacher as Performer, or Making Visible, Together
 Community building → #Share #Care #Enjoy  
 Build your own tool → #DIY #CreativeCoding #Yourself
+
 ![Photo: The Nuvole Sessions, live interactive sets for the Theatre of Senigallia](https://camo.githubusercontent.com/93410630168c139a03b83809828ac485a673695959046fdca0b12ea8a4cb5a2a/68747470733a2f2f692e696d6775722e636f6d2f6b447a495043482e706e67)
 - [Digital Experience Lab](https://design.unirsm.sm/courses/digital-experience-lab/)
 - [Learning through doing: "The Senigallia Sessions" real-time tool and performance](https://github.com/del-2024-unirsm)
 
 ### Artist as Builder (of Communities and Worlds), or Enjoying Life, Together
 Human perception → #CollectiveActOfShare
+
 ![Teller & K (also Tellerk) are the Italian artists Erika Gabbani and Daniele Tabellini.](https://www.tellerk.com/wp-content/uploads/2017/12/tellerk_02_1920.jpg)
 - [We’re interested in boundaries, combinations and middle grounds](https://www.tellerk.com/about/)
 - [From "Networking" by Fupete](https://nasonero.studio/portfolio/networking)
