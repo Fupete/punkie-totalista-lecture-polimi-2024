@@ -96,7 +96,7 @@ Human perception → #CollectiveActOfShare
 - [We’re interested in boundaries, combinations and middle grounds](https://www.tellerk.com/about/)
 - [From "Networking" by Fupete](https://nasonero.studio/portfolio/networking)
 - [to Canvas by Teller & K](https://tellerk.com/en/portfolio/canvas/)
-- [and to recent "Comunità" by Teller & K](https://mailchi.mp/447f77c5292a/tellerk-comunita-2024) ([more](https://odeporica.wordpress.com/2024/08/16/mostra-teller-k-comunita/))
+- [and to recent "Comunità" by Teller & K](https://mailchi.mp/447f77c5292a/tellerk-comunita-2024) ([more](https://www.artapartofculture.net/2024/11/13/teller-k-comunita-lopera-trasforma-lo-spazio/) and [more](https://odeporica.wordpress.com/2024/08/16/mostra-teller-k-comunita/))
 
 ----
 
